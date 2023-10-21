@@ -1,0 +1,2 @@
+code python    => compiler python => code python thành mã nhị phân
+print("hello") =>                 => 010100101110010010100111

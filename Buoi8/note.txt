@@ -1,0 +1,6 @@
+- Hàm là nhóm câu lệnh thực hiện 1 nhiệm vụ cụ thể
+- Các loại hàm:
++ Hàm không có tham số
++ Hàm có tham số
++ Hàm trả về giá trị (thường là hàm có tham số)
++ Hàm không trả về giá trị

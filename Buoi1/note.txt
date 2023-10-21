@@ -1,0 +1,17 @@
+- String: Tập hợp các ký tự là chữ hoặc số nằm trong dấu nháy kép hoặc nháy đơn.
+VD: "Hello" là chuỗi Hello
+
+- Variable (Biến số): Là nơi lưu trữ 1 giá trị nào đó, giá trị này có thể là số hoặc chữ hoặc 1 kiểu dữ liệu nào đó mà người lập trình viên muốn.
+VD: name = "Thắng"
+    age = 25
+
+- Data type (Kiểu dữ liệu): Kiểu dữ liệu thể hiện đặc điểm của dữ liệu chứa trong biến.
++ Number (int: số nguyên, float: số thực)
++ String (Chuỗi)
++ Boolean (Kiểu luận lý): Giá trị là đúng hoặc sai
+
+- Hàm input(): Tất cả giá trị nhập vào từ hàm input() đều có kiểu dữ liệu là chuỗi.
+
+- Cách kiểm tra thư viện có tồn tại không trong python:
++ Mở terminal chạy câu lệnh sau: pip --version
++ Câu lệnh pip dùng để quản lý thư viện python

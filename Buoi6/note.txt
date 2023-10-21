@@ -1,0 +1,5 @@
+List:
++ Tính độ dài của list: len()
++ Các thao tác hay sử dụng với list (mảng): Đọc - Truy xuất các phần tử, Thêm, Sửa, Xoá
+CRUD: Create - Read - Update - Delete
++ Khi thao tác với list thường sử dụng vòng lặp for

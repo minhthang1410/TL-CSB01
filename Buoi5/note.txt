@@ -1,0 +1,6 @@
+- Mini Hackathon 1:
++ Được phép xem tài liệu, được phép search google
++ Được phép trao đổi bài với nhau (Buổi 6 thầy chấm bài xong và sẽ hỏi random, k trả lời được câu nào thì k tính điểm câu đó)
++ Bài làm đặt tên theo cú pháp: 
+{phần bnhieu}-{câu số mấy}_{tên bài tập}.py
+1-1_full_name.py
